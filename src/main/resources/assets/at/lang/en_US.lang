@@ -1,0 +1,13 @@
+item.ItemFats.name=Fats
+item.CookedFats.name=Cooked Fats
+item.SiewYuk.name=Siew Yuk
+item.TntPickaxe.name=TNT Pickaxe
+item.TntSpade.name=TNT Spade
+item.TntAxe.name=TNT Axe
+item.TntSword.name=TNT Sword
+item.TntHoe.name=TNT Hoe
+item.TntStick.name=TNT Stick
+
+tile.BlockFats.name=Block of Fats
+
+itemGroup.tabApertureMod=Aperture Mod
